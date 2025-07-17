@@ -32,7 +32,8 @@ The goal is to build a classification model to predict customer churn using real
 
 ## 📈 Evaluation Metrics
 
-- **Accuracy**: _[paste your accuracy here]_
+- **Accuracy**: 0.87
+
 - Confusion matrix and classification report visualized for model performance
 
 ---
