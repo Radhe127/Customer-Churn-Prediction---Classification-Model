@@ -1,7 +1,58 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# 📊 Customer Churn Prediction – Classification Model
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+This project was created as part of my **Codveda Data Science Internship**.  
+The goal is to build a classification model to predict customer churn using real-world telecom data.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+---
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## 📁 Dataset
+
+- **Source**: `churn-bigml-20.csv`
+- 20 features including:
+  - `Account length`, `International plan`, `Voice mail plan`, `Customer service calls`, etc.
+- Target: **Churn** (1 = Yes, 0 = No)
+
+---
+
+## 🧠 Objective
+
+- Load and clean telecom churn dataset
+- Encode categorical variables
+- Train a **Logistic Regression** model
+- Evaluate with classification report and confusion matrix
+
+---
+
+## 🛠️ Tools Used
+
+- Python (Pandas, Seaborn, Matplotlib, Scikit-learn)
+- Jupyter Notebook
+
+---
+
+## 📈 Evaluation Metrics
+
+- **Accuracy**: _[paste your accuracy here]_
+- Confusion matrix and classification report visualized for model performance
+
+---
+
+## 🧾 Notebook
+
+- File: `classification_churn_final.ipynb`
+
+---
+
+## 🙌 Internship Credit
+
+This was submitted as part of the **Codveda Technologies Internship** for Data Science.
+
+> ✨ **#CodvedaJourney #ChurnPrediction #MachineLearning #InternshipProject** ✨
+
+---
+
+## 🔗 Connect with Me
+
+- 📧 Email: [radheverma146@gmail.com](mailto:radheverma146@gmail.com)
+- 🔗 GitHub: [https://github.com/Radhe127](https://github.com/Radhe127)
+- 🔗 LinkedIn: [https://linkedin.com/in/radheverma](https://linkedin.com/in/radheverma)
